@@ -1,10 +1,8 @@
-> ## This is a fork for comaptibility with Lumen 8/9.
-> All work is credited to the original author.
+> ## This is a wannabe successor of dcblocdev/laravel-dropbox for compatibility with Lumen 8/9.
+> All work is credited to the original author. I am just a man, a simple man... who needed some changes.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/zanderwar/lumen-dropbox.svg?style=flat-square)](https://packagist.org/packages/zanderwar/lumen-dropbox)
 [![Total Downloads](https://img.shields.io/packagist/dt/zanderwar/lumen-dropbox.svg?style=flat-square)](https://packagist.org/packages/zanderwar/lumen-dropbox)
-
-![Logo](https://repository-images.githubusercontent.com/189828582/4defa980-49c1-11eb-9668-76f985726c80)
 
 A Laravel package for working with Dropbox v2 API.
 
@@ -308,7 +306,7 @@ Contributions are accepted via Pull Requests on [Github][4].
 
 ## Security
 
-If you discover any security related issues, please email dave@dcblog.dev email instead of using the issue tracker.
+If you discover any security related issues, please email reece.alexander@gmail.com email instead of using the issue tracker.
 
 ## License
 
