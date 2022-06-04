@@ -31,7 +31,7 @@ A common URL is https://domain.com/dropbox/connect
 Via Composer
 
 ```
-composer require zanderwar/laravel-dropbox
+composer require zanderwar/lumen-dropbox:^1.0
 ```
  
 ## Config
